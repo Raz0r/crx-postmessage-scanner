@@ -1,0 +1,4 @@
+{ "order" : 1,
+"template" : "extensions", "settings" : { "index" : { "mapping.total_fields.limit": "4000"
+ }
+}
